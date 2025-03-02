@@ -118,7 +118,7 @@ export default function About({ setActiveSession }) {
                 <p className="text-gray-400 mt-1">
                 PCET'S Pimpri Chinchwad Polytechnic,Pune
                 </p>
-                <p className="text-sm text-gray-500 mt-2">2018 - 2020-2023 | 83.49%</p>
+                <p className="text-sm text-gray-500 mt-2">2020-2023 | 83.49%</p>
               </div>
               <div className="relative pl-6">
                 <div className="absolute left-[-7px] w-3 h-3 bg-purple-400"></div>
@@ -128,7 +128,7 @@ export default function About({ setActiveSession }) {
                 <p className="text-gray-400 mt-1">
                 Shyamlal Memorial Highschool, Udgir
                 </p>
-                <p className="text-sm text-gray-500 mt-2">2018 - 2017-2020 | 90%</p>
+                <p className="text-sm text-gray-500 mt-2">2017-2020 | 90%</p>
               </div>
             </div>
           </section>
